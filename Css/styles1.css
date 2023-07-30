@@ -1,0 +1,504 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.Rectangle-1 {
+    width: 75px;
+    height: 205px;
+    padding: 0 0 545px;
+    background-color: #3a4750;
+
+  }
+
+.Icono2-1 {
+    width: 75px;
+    height: 93px;
+    margin: 0 0 4px;
+  }
+
+.Boton-Video-Clase {
+    width: 74px;
+    height: 51px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 10px 0px 5px 1px;
+    padding: 0;
+    cursor: pointer;
+  }
+
+.Boton-Audio-Clase {
+    width: 70px;
+    height: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 10px 0px 5px 3px;
+    padding: 0;
+    cursor: pointer;
+
+  }
+
+.icono-mic2 {
+    width: 46px;
+    height: 37px;
+    flex-grow: 0;
+    object-fit: contain;
+}
+
+.Audio-Clase {
+    width: 60px;
+    height: 14px;
+    flex-grow: 0;
+    font-family: Poppins;
+    font-size: 8px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+
+.icono-cam2 {
+    width: 50px;
+    height: 50px;
+    flex-grow: 0;
+    object-fit: contain;
+  }
+
+.Video-Clase {
+    width: 57px;
+    height: 14px;
+    flex-grow: 0;
+    font-family: Poppins;
+    font-size: 8px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+
+.icono-prin {
+    width: 99px;
+    height: 100px;
+    margin-left: -11px;
+  }
+
+  .Rectangle-2 {
+    width: 269px;
+    height: 40px;
+    padding: 20px 979px 6px 17px;
+    background-color: #f8ffcf;
+    display: inline;
+    align-items: center;
+    padding-left: 20px;
+    position: absolute;
+    top: 0;
+    left: 75px;
+    right: 0;
+  }
+
+.Grabacin{
+    width: 228px;
+    height: 28px;
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+}
+
+
+
+  .Rectangle-5  {
+    width: 0px;
+    height: 38px;
+    display: flex;
+    padding: 0px 979px 0px 0px;
+    position: absolute;
+    top: 16%;
+    left: 75px;
+    right: 0;
+    background-color: #3a4750;
+}
+.Texto-btn {
+  font-family: Poppins;
+  font-size: 12px;
+  color: rgb(224, 224, 224);
+  text-align: center;
+}
+
+.Rectangle-8 {
+  background-color: #303841;
+  width: 124px;
+  height: 38px;
+  flex-grow: 0;
+  margin: 0px 36px;
+  padding: 0px 30px 20px 25px;
+  border: 2px solid #000;
+  cursor: pointer;
+
+}
+
+.Rectangle-7 {
+  background-color: #303841;
+  border: 2px solid #000;
+  width: 124px;
+  height: 38px;
+  margin: 0px 36px;
+  padding: 0px 30px 30px 30px;
+  cursor: pointer;
+}
+
+.Rectangle-6{
+  background-color: #303841;
+  border: 2px solid #000;
+  width: 124px;
+  height: 38px;
+  margin: 0 35px;
+  cursor: pointer;
+}
+
+
+#Rectangle-4 {
+  width: 124px;
+  height: 38px;
+  flex-grow: 0;
+  margin: 0 450px;
+  border: none;
+  padding: 0px 30px 30px 30px;
+  background-color: #7d0000;
+  cursor: pointer;
+}
+
+#Rectangle-80 {
+  width: 124px;
+  height: 38px;
+  flex-grow: 0;
+  margin: 0 450px;
+  border: none;
+  padding: 0px 30px 30px 30px;
+  background-color: #7d0000;
+  cursor: pointer;
+  display: none;
+}
+
+.Rectangle-17 {
+  background-color: #7d0000;
+  display: inline-block;
+  width: 124px;
+  height: 38px;
+  margin: 0 -440px;
+  border: none;
+  cursor: pointer;
+  position: relative;
+}
+.Rectangle-17 img{
+  width: 29px;
+  height: 29px;
+}
+
+.Rectangle-17 ul {
+  width: 140px;
+  list-style: none;
+  margin: 2px;
+  padding: 0;
+  position: absolute;
+  border: none;
+  left: -100px;
+  top: 100%;
+  display: none;
+}
+
+.Rectangle-17 li {
+  display: block;
+}
+
+.Rectangle-17 a {
+  display: block;
+  color: #fff;
+  background-color: #7d0000;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+
+.Rectangle-17:hover ul{
+  display: block;
+}
+
+.Rectangle-17 a:hover {
+  background-color: #af0000;
+  color: white;
+}
+
+.Rectangle-13 {
+  width: 7px;
+  height: 7px;
+  background-color: #3a4750;
+  margin-top: -159px;
+  
+}
+
+.Rectangle-12 {
+  width: 7px;
+  height: 7px;
+  background-color: #3a4750;
+  margin-top: 52px;
+}
+
+.Rectangle-9 {
+  width: 175.3px;
+  height: 33.1px;
+  margin-left: 250px;
+  margin-top: 20px;
+  border: none;
+  padding: 8.9px 0 5.7px;
+  background-color: #7d0000;
+  cursor: pointer;
+
+}
+
+
+.Iniciar-Grabacin {
+  width: 175.3px;
+  height: 15.4px;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+
+
+.Rectangle-8:hover {
+  background-color: #050000;
+ 
+}
+
+.Rectangle-7:hover {
+  background-color: #000000;
+ 
+}
+
+
+.Rectangle-6:hover {
+  background-color: #020000;
+ 
+}
+
+.Rectangle-4:hover {
+  background-color: #af0000;
+}
+
+.Rectangle-17:hover{
+  background-color: #af0000;
+}
+.Rectangle-9:hover{
+  background-color: #af0000;
+}
+
+
+.Interfaz-Funciones {
+  width: 220px;
+  height: 40px;
+  padding: 20px 800px 6px 17px;
+  display: none;
+  align-items: center;
+  padding-left: 20px;
+  position: absolute;
+  top: 150px;
+  left: 115px;
+  right: 0;
+}
+
+.Abrir-Cam-Mic {
+  width: 900px;
+  height: 150px;
+  border: 2px solid #000;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 6px;
+  margin: 0 0 37px;
+  padding: 57px 16px;
+  background-color: #eaece0;
+}
+
+.El-primer-paso-para-realizar-la-grabacin-de-tu-video-clase-es-iniciar-tu-cmara-y-micrfono {
+  width: 390px;
+  height: 34px;
+  margin-left: 15px;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.Hace-click-debajo-y-si-tu-navegador-te-pide-autorizacin-para-compartir-acept-para-que-funcione{
+  width: 396px;
+  height: 34px;
+  margin-left: 15px;
+  margin-top: 25px;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.INSTRUCCIONES {
+  width: 70px;
+  height: 14px;
+  flex-grow: 0;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+
+.VISTA-DE-TU-CMARA {
+  width: 170px;
+  height: 17px;
+  flex-grow: 0;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+  margin-left: 450px;
+  margin-top: -252px;
+}
+
+.Frame-2 {
+  width: 400px;
+  height: 210px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 7px;
+  padding: 10px;
+  margin-left: 450px;
+  margin-top: -140px;
+  background-color: #fff;
+}
+
+.Frame-2 img{
+  width: 260px;
+  height: 210px;
+  flex-grow: 0;
+  margin-left: 65px;
+}
+
+#dropdown-menu {
+  display: none;
+}
+
+#dropdown-btn:focus #dropdown-menu {
+  display: block;
+}
+
+.Usuario {
+  display: inline-block;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #f8ffcf;
+  background-image: url('../images/Avatar.png');
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+  margin-left: 1015px;
+  margin-top: -10px;
+}
+
+.Usuario:hover {
+  background-color: #aaa;
+}
+
+#miLista {
+  list-style: none;
+  margin: 2px;
+  padding: 0;
+  position: absolute;
+  left: -100px;
+  top: 50px;
+  display: none;
+
+}
+
+
+#miLista li {
+  width: 120px;
+  height: 100px;
+  display: block;
+  padding: 10px;
+  border: 1px solid #080808;
+  background-color: #30384196;
+  margin-bottom: 10px;
+  cursor:initial;
+  font-family: Poppins;
+  font-size: 16px;
+}
+
+.nombre-usuario{
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 16px;
+  font-family: Poppins;
+}
+
+#miLista li a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 16px;
+  font-family: Poppins;
+}
+
+#miLista li a:hover {
+  color: #0088cc;
+}
