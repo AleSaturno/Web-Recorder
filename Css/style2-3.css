@@ -1,0 +1,509 @@
+.Abrir-Cam-Mic-2 {
+    width: 900px;
+    height: 150px;
+    border: 2px solid #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 6px;
+    margin: 0 0 37px;
+    padding: 57px 16px;
+    background-color: #eaece0;
+  }
+  
+  .El-primer-paso-para-realizar-la-grabacin-de-tu-video-clase-es-iniciar-tu-cmara-y-micrfono-2 {
+    width: 390px;
+    height: 34px;
+    margin-left: 15px;
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  
+  .Hace-click-debajo-y-si-tu-navegador-te-pide-autorizacin-para-compartir-acept-para-que-funcione-2{
+    width: 396px;
+    height: 34px;
+    margin-left: 15px;
+    margin-top: 25px;
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  
+  .INSTRUCCIONES-2 {
+    width: 70px;
+    height: 14px;
+    flex-grow: 0;
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  
+  
+  .VISTA-DE-TU-CMARA-2 {
+    width: 170px;
+    height: 17px;
+    flex-grow: 0;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    margin-left: 450px;
+    margin-top: -252px;
+  }
+  
+  .Frame-3 {
+    width: 400px;
+    height: 210px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 7px;
+    padding: 10px;
+    margin-left: 450px;
+    margin-top: -140px;
+    background-color: #fff;
+  }
+  
+  .Frame-3 img{
+    width: 260px;
+    height: 210px;
+    flex-grow: 0;
+    margin-left: 65px;
+  }
+
+  .Rectangle-23 {
+    width: 7px;
+    height: 7px;
+    background-color: #3a4750;
+    margin-top: -159px;
+    
+  }
+  
+  .Rectangle-22 {
+    width: 7px;
+    height: 7px;
+    background-color: #3a4750;
+    margin-top: 52px;
+  }
+  
+  .Rectangle-24 {
+    width: 175.3px;
+    height: 33.1px;
+    margin-left: 250px;
+    margin-top: 20px;
+    border: none;
+    padding: 8.9px 0 5.7px;
+    background-color: #7d0000;
+    cursor: pointer;
+  
+  }
+  
+  
+  .Iniciar-Grabacin-2{
+    width: 175.3px;
+    height: 15.4px;
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+
+  .Rectangle-24:hover{
+    background-color: #af0000;
+  }
+
+
+/* /////////////////////////////////////////////////////////////////////////// */
+
+
+.Interfaz-Funciones-2 {
+    width: 220px;
+    height: 40px;
+    padding: 20px 800px 6px 17px;
+    display: none;
+    align-items: center;
+    padding-left: 20px;
+    position: absolute;
+    top: 150px;
+    left: 115px;
+    right: 0;
+  }
+  
+.Abrir-Cam-Mic-3 {
+    width: 900px;
+    height: 150px;
+    border: 2px solid #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 6px;
+    margin: 0 0 37px;
+    padding: 57px 16px;
+    background-color: #eaece0;
+  }
+  
+  .El-primer-paso-para-realizar-la-grabacin-de-tu-video-clase-es-iniciar-tu-cmara-y-micrfono-3 {
+    width: 390px;
+    height: 34px;
+    margin-left: 15px;
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  
+  .Hace-click-debajo-y-si-tu-navegador-te-pide-autorizacin-para-compartir-acept-para-que-funcione-3{
+    width: 396px;
+    height: 34px;
+    margin-left: 15px;
+    margin-top: 25px;
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  
+  .INSTRUCCIONES-3 {
+    width: 70px;
+    height: 14px;
+    flex-grow: 0;
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  
+  
+  .VISTA-DE-TU-CMARA-3 {
+    width: 170px;
+    height: 17px;
+    flex-grow: 0;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    margin-left: 450px;
+    margin-top: -252px;
+  }
+  
+  .Frame-4 {
+    width: 400px;
+    height: 210px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 7px;
+    padding: 10px;
+    margin-left: 450px;
+    margin-top: -140px;
+    background-color: #fff;
+  }
+  
+  .Frame-4 img{
+    width: 260px;
+    height: 210px;
+    flex-grow: 0;
+    margin-left: 65px;
+  }
+
+  .Rectangle-26 {
+    width: 7px;
+    height: 7px;
+    background-color: #3a4750;
+    margin-top: -159px;
+    
+  }
+  
+  .Rectangle-27 {
+    width: 7px;
+    height: 7px;
+    background-color: #3a4750;
+    margin-top: 52px;
+  }
+  
+  .Rectangle-25 {
+    width: 175.3px;
+    height: 33.1px;
+    margin-left: 250px;
+    margin-top: 20px;
+    border: none;
+    padding: 8.9px 0 5.7px;
+    background-color: #7d0000;
+    cursor: pointer;
+  
+  }
+  
+  
+  .Iniciar-Grabacin-3{
+    width: 175.3px;
+    height: 15.4px;
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+
+  .Rectangle-25:hover{
+    background-color: #af0000;
+  }
+
+/* /////////////////////////////////////////////////////////////////////////// */
+
+
+.Interfaz-Funciones-3 {
+  width: 220px;
+  height: 40px;
+  padding: 20px 800px 6px 17px;
+  display: none;
+  align-items: center;
+  padding-left: 20px;
+  position: absolute;
+  top: 150px;
+  left: 115px;
+  right: 0;
+}
+
+.Abrir-Cam-Mic-4 {
+  width: 900px;
+  height: 150px;
+  border: 2px solid #000;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 6px;
+  margin: 0 0 37px;
+  padding: 57px 16px;
+  background-color: #eaece0;
+}
+
+.El-primer-paso-para-realizar-la-grabacin-de-tu-video-clase-es-iniciar-tu-cmara-y-micrfono-4 {
+  width: 390px;
+  height: 34px;
+  margin-left: 15px;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.Hace-click-debajo-y-si-tu-navegador-te-pide-autorizacin-para-compartir-acept-para-que-funcione-4{
+  width: 396px;
+  height: 34px;
+  margin-left: 15px;
+  margin-top: 25px;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.INSTRUCCIONES-4 {
+  width: 70px;
+  height: 14px;
+  flex-grow: 0;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+
+.VISTA-DE-TU-CMARA-4 {
+  width: 170px;
+  height: 17px;
+  flex-grow: 0;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+  margin-left: 450px;
+  margin-top: -252px;
+}
+
+.Frame-5 {
+  width: 400px;
+  height: 210px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 7px;
+  padding: 10px;
+  margin-left: 450px;
+  margin-top: -140px;
+  background-color: #fff;
+}
+
+.Frame-5 img{
+  width: 260px;
+  height: 210px;
+  flex-grow: 0;
+  margin-left: 65px;
+}
+
+.Rectangle-29 {
+  width: 7px;
+  height: 7px;
+  background-color: #3a4750;
+  margin-top: -159px;
+  
+}
+
+.Rectangle-30 {
+  width: 7px;
+  height: 7px;
+  background-color: #3a4750;
+  margin-top: 52px;
+}
+
+.Rectangle-28 {
+  width: 175.3px;
+  height: 33.1px;
+  margin-left: 250px;
+  margin-top: 20px;
+  border: none;
+  padding: 8.9px 0 5.7px;
+  background-color: #7d0000;
+  cursor: pointer;
+
+}
+
+
+.Iniciar-Grabacin-4{
+  width: 175.3px;
+  height: 15.4px;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+
+.Rectangle-28:hover{
+  background-color: #af0000;
+}
+
+#justWebcam{
+  width: 380px;
+  height: 222px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 7px;
+  padding: 10px;
+
+  margin-top: -233px;
+}
+
+#justScreenShare{
+  width: 380px;
+  height: 222px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 7px;
+  padding: 10px;
+  margin-top: -175px;
+} 
+
+#pipOverlayStream{
+  width: 1000px;
+  height: 4000px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 7px;
+  padding: 10px;
+  margin-top: -18px;
+  margin-left: -10px;
+}
+
+div#Frame-5 #pipOverlayStream {
+	max-width: 100% !important;
+}
