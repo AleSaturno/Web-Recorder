@@ -2,6 +2,12 @@
 
 Web-Recorder es una herramienta de grabación de pantalla basada en la web. Permite a los usuarios grabar su pantalla y guardar la grabación para su uso posterior. Este proyecto es ideal para aquellos que necesitan una solución de grabación de pantalla rápida y fácil de usar.
 
+## Tecnologías utilizadas
+
+- PHP
+- CSS
+- JavaScript
+
 ## Características
 
 - Grabación de pantalla en tiempo real
@@ -33,3 +39,4 @@ Para usar Web-Recorder, sigue estos pasos:
 3. Haz clic en el botón "Combinar Transmisiones" para combinar las grabaciones de la webcam y la pantalla.
 4. Haz clic en el botón "Iniciar Grabación" para comenzar a grabar la combinación de las dos transmisiones.
 5. Cuando hayas terminado, haz clic en "Detener Grabación" y la grabación se guardará automáticamente en tu dispositivo en formato MP4.
+
